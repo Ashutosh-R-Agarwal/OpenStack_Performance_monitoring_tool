@@ -15,5 +15,13 @@ Realtime monitoring of resource instances (Ram usage, memory usage, network band
 was done. Using that per second billing of the user was calculated.  
 
 
+This project involved combined efforts of following people:
+Ashutosh Agarwal                B80028502
+Apoorva Kokate    	            B80028532
+Pratik Saraf    	              B80028560
+Deepak poojari                  B80028550
+
+
+
 Doesn't include the source code of the project since, it was designed specifically
 for e-Zest solutions.
